@@ -1,8 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://peaceful-bartik-471256.netlify.app/).
 
 ## Available Scripts
+## Writer Name
+### Hire Best Writer in the world
+### Writer info above
+
 
 In the project directory, you can run:
 
