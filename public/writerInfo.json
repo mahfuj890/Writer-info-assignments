@@ -1,0 +1,74 @@
+ [
+  {
+    "img": "images/writer1.jpg",
+    "name": "Shakespeare",
+    "numberOFBook": 150,
+    "age": 60,
+    "country": "USA",
+    "sallary": 30000
+  },
+  {
+    "img": "images/writer2.jpg",
+    "name": "Agatha Christie",
+    "numberOFBook": 50,
+    "age": 70,
+    "country": "USA",
+    "sallary": 25000
+  },
+  {
+    "img": "images/writer3.jpg",
+    "name": "Harold Robbins",
+    "numberOFBook": 50,
+    "age": 70,
+    "country": "USA",
+    "sallary": 37000
+  },
+  {
+    "img": "images/writer4.jpg",
+    "name": "Harold Robbins",
+    "numberOFBook": 50,
+    "age": 70,
+    "country": "USA",
+    "sallary": 47000
+  },
+  {
+    "img": "images/writer5.jpg",
+    "name": "Enid Blyton",
+    "numberOFBook": 50,
+    "age": 70,
+    "country": "USA",
+    "sallary": 34000
+  },
+  {
+    "img": "images/writer6.jpg",
+    "name": "Dr. Seuss",
+    "numberOFBook": 50,
+    "age": 70,
+    "country": "USA",
+    "sallary": 33000
+  },
+  {
+    "img": "images/writer7.jpg",
+    "name": "Leo Tolstoy",
+    "numberOFBook": 50,
+    "age": 70,
+    "country": "USA",
+    "sallary": 41000
+  },
+  {
+    "img": "images/writer8.jpg",
+    "name": "Harold Robbins",
+    "numberOFBook": 50,
+    "age": 70,
+    "country": "USA",
+    "sallary": 34000
+  },
+  {
+    "img": "images/writer4.jpg",
+    "name": "Harold Robbins",
+    "numberOFBook": 50,
+    "age": 70,
+    "country": "USA",
+    "sallary": 39000
+  }
+]
